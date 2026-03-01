@@ -46,3 +46,4 @@ Seeking opportunities in Cybersecurity, SOC Analyst, IT Support, or Network Secu
 📍 San Diego, CA  
 📧 rizakorkusuz@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rizakorkusuz/
+🔗 Medium: https://medium.com/@rizakorkusuz
