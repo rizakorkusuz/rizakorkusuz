@@ -1,51 +1,18 @@
-# Hi, I'm Rıza Korkusuz 👋
+# Rıza Korkusuz
 
-Cybersecurity and IT Support Professional based in San Diego, California.
+Technical support in San Diego.
 
-I specialize in network security, SOC operations, incident response, and system troubleshooting. I am passionate about building secure infrastructures and analyzing security events in real-world environments.
+I work through solar monitoring problems: modems, loggers, RS-485, and whether a low reading is a communications fault or a real production gap.
 
----
+## Links
 
-## 🔐 Areas of Focus
-- Cybersecurity
-- SOC Analysis
-- Network Security
-- Incident Response (NIST 800-61)
-- SIEM Monitoring
-- Vulnerability Management
-- Active Directory Security
-- LAN/WAN Troubleshooting
+- Site: https://rizakorkusuz.com
+- [Relay Desk](https://relay.rizakorkusuz.com) — sample console for modem, logger, and RS-485 triage · [repo](https://github.com/rizakorkusuz/relay-desk)
+- [PulseAssist](https://monitor.rizakorkusuz.com) — sample monitor from an unclear symptom to a next step · [repo](https://github.com/rizakorkusuz/pulseassist)
+- [PV edge node](https://rizakorkusuz.com/edge/) — buffering and data cleaning with synthetic data · [repo](https://github.com/rizakorkusuz/pv-edge-node)
+- LinkedIn: https://www.linkedin.com/in/rizakorkusuz/
 
----
+## Contact
 
-## 🛠 Technical Skills
-- Windows Server
-- Active Directory & Group Policy
-- Network Diagnostics (ping, traceroute, netstat, arp)
-- Security Information and Event Management (SIEM)
-- Log Analysis
-- CompTIA Security+
-- NIST Framework
-- Basic Python for Security Automation
-
----
-
-## 📂 Current Projects
-- Home SOC Lab (VirtualBox + Kali Linux + Windows Server)
-- Network Troubleshooting Guide
-- Cybersecurity Study Notes Repository
-- Incident Response Documentation
-
----
-
-## 🎯 Career Objective
-Seeking opportunities in Cybersecurity, SOC Analyst, IT Support, or Network Security roles where I can apply hands-on technical knowledge and continue growing in the field.
-
----
-
-📍 San Diego, CA  
-📧 rizakorkusuz@gmail.com  
-
-🔗 LinkedIn: https://www.linkedin.com/in/rizakorkusuz/
-
-🔗 Medium: https://medium.com/@rizakorkusuz
+- Phone: +1 (619) 776-1907
+- Email: rizakorkusuz@gmail.com
