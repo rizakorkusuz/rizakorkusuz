@@ -17,5 +17,4 @@ Relay Desk, PulseAssist, and the edge pages are sample or synthetic practice.
 
 ## Contact
 
-- Phone: +1 (619) 776-1907
 - Email: rizakorkusuz@gmail.com
