@@ -1,20 +1,29 @@
 # Rıza Korkusuz
 
-Technical support in San Diego.
+**Rıza Korkusuz** (also written Riza Korkusuz) — IT support and service desk, based in San Diego, CA.
 
-Relay Desk, PulseAssist, and the edge pages are sample or synthetic practice.
+I work on technical support: troubleshooting, clear ticket documentation, and practical runbooks. The repositories below are sample and study material, free of any employer or customer information.
 
 ## Links
 
-- Site: https://rizakorkusuz.com
-- [Relay Desk](https://relay.rizakorkusuz.com) — modem, logger, and RS-485 triage · [repo](https://github.com/rizakorkusuz/relay-desk)
-- [PulseAssist](https://monitor.rizakorkusuz.com) — from an unclear symptom to a next step · [repo](https://github.com/rizakorkusuz/pulseassist)
-- [Edge](https://rizakorkusuz.com/edge/) — buffering and data cleaning · [repo](https://github.com/rizakorkusuz/pv-edge-node)
-- LinkedIn: https://www.linkedin.com/in/rizakorkusuz/
-- [Check the Path Before You Rename the Outage](https://medium.com/@rizakorkusuz/a-site-that-cannot-connect-is-not-one-problem-fd9560da7154)
-- [An Account Ticket Still Needs an Owner](https://medium.com/@rizakorkusuz/an-account-ticket-still-needs-an-owner-f666c257f1a6)
+- Website: https://rizakorkusuz.com
 - Medium: https://medium.com/@rizakorkusuz
+- LinkedIn: https://www.linkedin.com/in/rizakorkusuz
 
-## Contact
+## IT support repositories by Riza Korkusuz
 
-- Email: rizakorkusuz@gmail.com
+- [it-support-playbooks](https://github.com/rizakorkusuz/it-support-playbooks) — runbooks for first- and second-line support
+- [windows-troubleshooting-scripts](https://github.com/rizakorkusuz/windows-troubleshooting-scripts) — read-only Windows diagnostics
+- [service-desk-ticket-templates](https://github.com/rizakorkusuz/service-desk-ticket-templates) — ticket and hand-off templates
+- [device-lifecycle-checklists](https://github.com/rizakorkusuz/device-lifecycle-checklists) — device onboarding to disposal checklists
+- [service-desk-knowledge-base](https://github.com/rizakorkusuz/service-desk-knowledge-base) — sample knowledge base articles
+- [imac-asset-inventory-toolkit](https://github.com/rizakorkusuz/imac-asset-inventory-toolkit) — IMAC inventory and reporting toolkit
+- [it-helpdesk-web-forms](https://github.com/rizakorkusuz/it-helpdesk-web-forms) — help desk ticket-intake form
+
+## Other projects
+
+- [Relay Desk](https://relay.rizakorkusuz.com) · [repo](https://github.com/rizakorkusuz/relay-desk)
+- [PulseAssist](https://monitor.rizakorkusuz.com) · [repo](https://github.com/rizakorkusuz/pulseassist)
+- [Edge](https://rizakorkusuz.com/edge/) · [repo](https://github.com/rizakorkusuz/pv-edge-node)
+
+Relay Desk, PulseAssist, and the edge pages are sample or synthetic practice.
