@@ -1,5 +1,7 @@
 # Rıza Korkusuz
 
+<img src="assets/riza-korkusuz.jpg" alt="Portrait of Rıza Korkusuz" width="200" height="200">
+
 **Rıza Korkusuz** (also written Riza Korkusuz) — IT support and service desk, based in San Diego, CA.
 
 I work on technical support: troubleshooting, clear ticket documentation, and practical runbooks. The repositories below are sample and study material, free of any employer or customer information.
