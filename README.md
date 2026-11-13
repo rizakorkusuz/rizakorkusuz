@@ -29,3 +29,16 @@ I work on technical support: troubleshooting, clear ticket documentation, and pr
 - [Edge](https://rizakorkusuz.com/edge/) · [repo](https://github.com/rizakorkusuz/pv-edge-node)
 
 Relay Desk, PulseAssist, and the edge pages are sample or synthetic practice.
+
+## Recognition & Press
+
+- **2nd place in Turkey, high school league, OpenZeka MARC 2019 mini autonomous vehicle race (Bilkent University, Ankara, April 2019).** As assistant principal and IT teacher at Emel-Özgür Subaşıay Vocational and Technical Anatolian High School (Edirne), I coordinated the student team (KIRKPINAR) that built the driverless car. Coverage (in Turkish):
+  - [TRT Haber: Sürücüsüz araç geliştiren meslek lisesi öğrencilerinden büyük başarı](https://www.trthaber.com/haber/yasam/surucusuz-arac-gelistiren-meslek-lisesi-ogrencilerinden-buyuk-basari-432147.html)
+  - [TRT Haber video](https://www.trthaber.com/videolar/surucusuz-arac-gelistiren-meslek-lisesi-ogrencilerinden-buyuk-basari-45880.html)
+  - [Edirne Provincial Directorate of National Education (MEB)](https://edirne.meb.gov.tr/www/ilimiz-emel-ozgur-subasiay-mesleki-ve-teknik-anadolu-lisesi-ogrencilerinin-buyuk-basarisi/icerik/3350)
+  - [Edirne Governorship: students visit Governor Canalp](https://www.edirne.gov.tr/turkiye-ikincisi-ogrenciler-vali-canalpi-ziyaret-etti)
+  - [Edirne Governorship: IT workshop for the school](https://www.edirne.gov.tr/turkiye-ikincisi-okula-bilisim-atolyesi)
+  - [OpenZeka MARC 2019 event page](https://openzeka.com/marc/marc-2019/)
+- **Mask-detection software project (EU Code Week, October 2020)**, coordinated with high school students: [Edirne'nin Sesi](https://www.edirneninsesi.com.tr/lise-ogrencilerinden-maske-kontrol-yazilimi/13020/)
+- **Publication:** [Real-time sentiment analysis of football tweets (EJOSAT, 2020)](https://dergipark.org.tr/en/pub/ejosat/article/821200)
+
