@@ -26,7 +26,7 @@ I work on technical support: troubleshooting, clear ticket documentation, and pr
 
 - [Relay Desk](https://relay.rizakorkusuz.com) · [repo](https://github.com/rizakorkusuz/relay-desk)
 - [PulseAssist](https://monitor.rizakorkusuz.com) · [repo](https://github.com/rizakorkusuz/pulseassist)
-- [Edge](https://rizakorkusuz.com/edge/) · [repo](https://github.com/rizakorkusuz/pv-edge-node)
+- [Edge](https://github.com/rizakorkusuz/pv-edge-node)
 
 Relay Desk, PulseAssist, and the edge pages are sample or synthetic practice.
 
